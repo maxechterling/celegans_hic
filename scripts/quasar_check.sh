@@ -1,0 +1,1 @@
+hifive quasar -p f4_morc1_hic.hdf5 -r 2000000,40000 -d 0 morc1_quasar -o morc1_report
